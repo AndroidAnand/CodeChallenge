@@ -1,0 +1,124 @@
+# Flutter/Dart/Pub related files
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+.cache
+
+# Specific directories created by Flutter
+.idea/
+.macos/
+.flutter/
+android/.gradle/
+android/.idea/
+android/app/*.iml
+android/local.properties
+ios/Flutter/.last_build_id
+ios/Podfile.lock
+ios/Pods
+ios/Runner.xcworkspace
+ios/build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+*.DS_Store
+*.ipr
+*.iws
+*.iml
+*.hprof
+*.jar
+*.war
+*.ear
+*.xpi
+*.app
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Cython debug symbols
+cython_debug/
+
+# VS Code related files
+.vscode/
+
+# Generated plugin files
+plugin_registrant.dart
+
+# Web-related files
+web/.dart_tool/
+web/build/
+
+# Android Studio related files
+*.iml
+.gradle/
+local.properties
+.idea/workspace.xml
+.idea/libraries
+.idea/modules.xml
+.idea/.name
+.idea/misc.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/caches/
+.idea/httpRequests/
+.idea/codeStyles/
+.idea/assetWizardSettings.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/workspace.xml
+
+# IntelliJ IDEA files
+*.iml
+.gradle
+/local.properties
+/.idea
+/.idea/*
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/caches
+/.idea/assetWizardSettings.xml
+/.idea/tasks.xml
+/.idea/gradle.xml
+/.idea/markdown-navigator.xml
+/.idea/workspace.xml
+/.idea/dictionaries
+
+# MacOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk

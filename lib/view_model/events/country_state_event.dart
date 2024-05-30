@@ -1,0 +1,2 @@
+// Events
+abstract class CountryStateEvent {}

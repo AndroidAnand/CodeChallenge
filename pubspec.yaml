@@ -1,0 +1,31 @@
+name: code_challenge
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0-190.0.dev <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.0
+  http: ^0.13.3
+  equatable: ^2.0.3
+  cupertino_icons: ^1.0.6
+  flutter_dotenv: any
+  hive: any
+  hive_flutter: any
+  connectivity_plus: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - env/env.default
