@@ -55,6 +55,17 @@ To run the tests, use the following command:
 
  1 flutter test
 
+## To-Do:
+
+Robustness:
+  - Thorough error handling
+  - Offline mode support
+  - Permission handling
+  - Enhancements:
+  - Evaluate state management libraries (Provider, Riverpod, etc.)
+  - App theming and dark mode support
+  - Multi-language support
+
 ## Conclusion
 
 This documentation provides an overview of the architecture and chosen approach for the Challenge App. By following the MVVM architecture and repository pattern, we achieve a clean separation of concerns, enhanced testability, and reusability of components. The detailed structure and steps provided here should help in understanding and maintaining the application efficiently.
