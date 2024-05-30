@@ -41,7 +41,7 @@ The repository layer, with the CountryRepository at its heart, manages data inte
 ## Model Layer
 This layer includes the data models used in the application. The main models are Country and States.
 
-## Table of Contents
+## Running the App
 
 To run the app, follow these steps:
 
