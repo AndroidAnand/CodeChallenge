@@ -1,6 +1,6 @@
 # code_challenge
 
-Code Challenge project.
+Code Challenge project (please use the dev branch).
 
 ## Getting Started
 
