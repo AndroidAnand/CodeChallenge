@@ -14,8 +14,14 @@ This Flutter application demonstrates the use of the MVVM (Model-View-ViewModel)
     - ViewModel (Business logic) Layer
     - Repository Layer
     - Model Layer
+- Running the App
+- Testing
 <!-- tocstop -->
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Architecture
+The application is divided into four main layers: Presentation, ViewModel, Repository, and Model. This structure helps maintain a clean and manageable codebase by separating concerns.
+
+## Presentation Layer
+This layer includes the UI components and widgets that users interact with. The main components of the presentation layer in this application are:
+
+
