@@ -1,15 +1,20 @@
 # code_challenge
 
-A new Flutter project.
+Code Challenge project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter application demonstrates the use of the MVVM (Model-View-ViewModel) architecture pattern along with the Repository pattern to implement a dropdown selection for countries and states. This structure helps maintain a clean and manageable codebase by separating concerns and ensuring scalability.
 
-A few resources to get you started if this is your first Flutter project:
+## Table of Contents
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<!-- toc -->
+- Architecture (MVVM with Bloc)
+    - ViewModel Layer
+    - Repository Layer
+    - Repository Layer
+    - Model Layer
+<!-- tocstop -->
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
