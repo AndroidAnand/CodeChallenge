@@ -10,8 +10,8 @@ This Flutter application demonstrates the use of the MVVM (Model-View-ViewModel)
 
 <!-- toc -->
 - Architecture (MVVM with Bloc)
-    - ViewModel Layer
-    - Repository Layer
+    - Presentation (View) Layer 
+    - ViewModel (Business logic) Layer
     - Repository Layer
     - Model Layer
 <!-- tocstop -->
